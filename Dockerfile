@@ -30,3 +30,4 @@ RUN mkdir /opt/apks
 
 # Appium Server
 EXPOSE 4723
+#END
